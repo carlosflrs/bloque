@@ -1,0 +1,4 @@
+Spew allows us to view structs and slices cleanly formatted in our console. 
+This is nice to have.
+
+Gorilla/mux is a popular package for writing web handlers.
